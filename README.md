@@ -12,9 +12,7 @@ So I decided to build my own Internshala automation tool that:
 - Fills the application form automatically (including cover letter and common questions)  
 - Submits multiple applications with minimal manual effort
 
-The core idea of this project are **inspired by the open‑source project**  
-[Eviltr0N/internshala-bot](https://github.com/Eviltr0N/internshala-bot),  
-but this implementation is written separately using Selenium, with simplified logic and no paid AI APIs.
+The core idea of this project are **inspired by the open‑source project** [Eviltr0N/internshala-bot](https://github.com/Eviltr0N/internshala-bot), but this implementation is written separately using Selenium, with simplified logic and no paid AI APIs.
 
 ---
 
