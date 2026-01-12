@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+cookies.pkl
+applications_log.csv
+.env

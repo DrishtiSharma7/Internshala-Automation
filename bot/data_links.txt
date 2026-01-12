@@ -1,0 +1,4 @@
+def save_links(links):
+    with open("data/internship_links.txt", "w") as f:
+        for link in links:
+            f.write(link + "\n")
